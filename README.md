@@ -52,7 +52,7 @@ This will provide a public `https://xxxxx.ngrok-free.app` URL. **Copy this URL**
 ### 3. Frontend Setup (React)
 
 #### Install Dependencies
-Ensure Node.js and npm are installed, then navigate to the frontend folder:
+Ensure Node.js and npm are installed, 
 After cloning the frontend repositry cd to the chatBot directory and then run:
 ```sh
 npm install
