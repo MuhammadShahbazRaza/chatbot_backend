@@ -15,8 +15,8 @@ This is a simple AI-powered chatbot application built using Django (backend) and
 
 ### 1. Clone the Repository
 ```sh
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/MuhammadShahbazRaza/chatbot_backend.git
+cd chatbot_backend
 ```
 
 ### 2. Backend Setup (Django)
