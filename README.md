@@ -86,10 +86,3 @@ This will start the development server, accessible at `http://localhost:5173/`.
 
 ---
 
-## Future Improvements
-- Improve UI design for a better chat experience.
-- Add authentication for user-specific chat histories.
-- Enhance AI response handling with a more advanced model.
-
-Enjoy your AI chatbot! 🚀
-
